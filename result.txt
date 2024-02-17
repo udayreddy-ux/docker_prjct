@@ -1,0 +1,10 @@
+The number of words in Limerick-1 file is:32
+The distinct words in Limerick-1 file is:17
+The number of words in IF file is: 295
+The distinct words in IF file is:158
+The total number of words in both files is:327
+The top 3 words are:-
+1. and:20
+2. you:18
+3. if:14
+IP Address of your machine: 172.17.0.2
